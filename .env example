@@ -1,0 +1,6 @@
+NUMBER_OF_WALLETS=10 # Number of wallets to create
+WALLETS_FILE=wallets.csv # Wallets file name to use
+WEB3_PROVIDER=HTTP://127.0.0.1:7545 # RPC URL of network
+MAIN_WALLET_ADDRESS=0x556a09c6b6... # Main wallet address
+MAIN_WALLET_PRIVATE_KEY=0xb9ecba32a39d5f35d6ace5f265688423391c2... # Main wallet private key
+TOKEN_AMOUNT=0.0001 # The amount of native token to supply from main wallet
